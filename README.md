@@ -1,8 +1,26 @@
-# React + Vite
+# ShopKaro - Simple E-Commerce Website UI using React Router
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the ShopKaro E-Commerce Website project. This project is a simple, responsive e-commerce site created using React and React Router.
+**Note: This project is a UI prototype created for learning purposes and does not represent a fully functional, real-world e-commerce website. It is intended to demonstrate the use and familiar with the concept of React Router and related technologies.**
 
-Currently, two official plugins are available:
+### Project Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Homepage**: Displays introductory content and featured products.
+- **About Page**: Provides information about ShopKaro Technologies.
+- **Products Page**: Lists various products.
+- **Single Product Page**: Displays detailed information about a single product.
+- **Login Page**: Simulates user authentication with a login form.
+- **Not Found Page**: this pages opens when path doesnot match to any component
+
+### Live Demo
+
+You can access the live demo of this project [here](https://parveen-shopkaro.netlify.app/).
+
+### Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+- React
+- React Router
+- Bootstrap (for styling)
